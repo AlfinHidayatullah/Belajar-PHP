@@ -1,0 +1,1 @@
+{"Nama_Wilayah":"DKI Jakarta","Jumlah_Positif":"1104278","Jumlah_Dirawat":"14963","Jumlah_Sembuh":"1073609","Jumlah_Meninggal":"15706","Nama_Operator":"Alfin Hidayatullah","NIM_Mahasiswa":"191011400711"}
